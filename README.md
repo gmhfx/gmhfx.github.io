@@ -15,6 +15,11 @@ Github PAGES repository where I can aggregate and publish visualizations and dat
 
 While I am precluded from sharing any projects from my employer, I will source and use publicly available data that aligns with my goals and interests.
 
+## Table of Contents
+
+
+
+
 ### Contact
 
-gmfx20@gmail.com
+gmhfx20@gmail.com

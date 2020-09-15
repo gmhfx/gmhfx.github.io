@@ -11,6 +11,6 @@ Numpy
 Plotly
 HTML
 
-###Data</h3>
+##Data</h3>
 
 While I am precluded from sharing any projects from my employer, I will source and use publicly available data that aligns with my goals and interests.

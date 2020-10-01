@@ -9,6 +9,7 @@ Github PAGES repository where I can aggregate and publish visualizations and dat
 * Pandas
 * Numpy
 * Plotly
+* Google Maps API
 * HTML
 
 ## Data

@@ -20,7 +20,7 @@ While I am precluded from sharing any projects from my employer, I will source a
 
 S&P 500 EPS v PE ratio scatter plot: https://gmhfx.github.io/SP500/
 
-Fanatasy football ADP v predicted points scatter plot: https://gmhfx.github.io/Fantasy_Football/.
+Fanatasy football ADP v predicted points scatter plot: https://gmhfx.github.io/Fantasy_Football/
 
 Geo-coded football recruiting rankings by county: https://gmhfx.github.io/Choropleth-Map/
 

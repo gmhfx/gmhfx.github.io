@@ -1,7 +1,7 @@
 # gmhfx.github.io
 
 
-Github PAGES repository where I can aggregate and publish visualizations and data science projects as I continue to develops the requisite skills.
+Github PAGES repository where I can aggregate and publish visualizations and data science projects as I continue to develop the requisite skills.
 
 ## Technologies
 
@@ -9,19 +9,22 @@ Github PAGES repository where I can aggregate and publish visualizations and dat
 * Pandas
 * Numpy
 * Plotly
-* Google Maps API
+* Various APIs
 * HTML
 
 ## Data
 
-While I am precluded from sharing any projects from my employer, I will source and use publicly available data that aligns with my goals and interests.
+While I am precluded from sharing any projects from my employer, I will source and use publicly available data that will be cited in each repo.
 
 ## Table of Contents
 
-https://gmhfx.github.io/SP500/
+S&P 500 EPS v PE ratio scatter plot: https://gmhfx.github.io/SP500/
 
+Fanatasy football ADP v predicted points scatter plot: https://gmhfx.github.io/Fantasy_Football/.
 
+Geo-coded football recruiting rankings by county: https://gmhfx.github.io/Choropleth-Map/
 
+OHLC chart with volume subplot for BTC-USD: https://gmhfx.github.io/OHLCV-Chart/
 
 ### Contact
 

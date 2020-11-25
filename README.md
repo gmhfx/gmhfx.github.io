@@ -26,6 +26,8 @@ Geo-coded football recruiting rankings by county:       https://gmhfx.github.io/
 
 OHLC chart with volume subplot for BTC-USD:             https://gmhfx.github.io/OHLCV-Chart/
 
+Geo-coded football recruits by high school:             https://gmhfx.github.io/Bubble_Map/
+
 ### Contact
 
 gmhfx20@gmail.com

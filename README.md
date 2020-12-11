@@ -24,9 +24,11 @@ Geo-coded football recruiting rankings by county:       https://gmhfx.github.io/
 
 OHLC chart with volume subplot for BTC-USD:             https://gmhfx.github.io/OHLCV-Chart/
 
-Bubble map showing football recruits by high school:             https://gmhfx.github.io/Bubble_Map/
+Bubble map showing football recruits by high school:    https://gmhfx.github.io/Bubble_Map/
 
 Fanatasy football ADP v predicted points scatter plot:  https://gmhfx.github.io/Fantasy_Football/
+
+Bitcointo Gold ratio v US Government Debt over time:    https://gmhfx.github.io/DigitalGold/
 
 ### Contact
 

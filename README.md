@@ -28,7 +28,7 @@ Bubble map showing football recruits by high school:    https://gmhfx.github.io/
 
 Fanatasy football ADP v predicted points scatter plot:  https://gmhfx.github.io/Fantasy_Football/
 
-Bitcointo Gold ratio v US Government Debt over time:    https://gmhfx.github.io/DigitalGold/
+Bitcoin, Gold and US Government Debt growth over time:    https://gmhfx.github.io/DigitalGold/
 
 ### Contact
 

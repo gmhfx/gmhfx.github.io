@@ -22,8 +22,6 @@ S&P 500 EPS v PE ratio scatter plot:                    https://gmhfx.github.io/
 
 Geo-coded football recruiting rankings by county:       https://gmhfx.github.io/Choropleth-Map/
 
-OHLC chart with volume subplot for BTC-USD:             https://gmhfx.github.io/OHLCV-Chart/
-
 Bubble map showing football recruits by high school:    https://gmhfx.github.io/Bubble_Map/
 
 Bitcoin, Gold and US Government Debt growth over time:    https://gmhfx.github.io/DigitalGold/

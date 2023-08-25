@@ -5,7 +5,7 @@ Github PAGES repository where I can aggregate and publish visualizations and dat
 
 ## Technologies
 
-* Python 3.8
+* Python 3
 * Pandas
 * Numpy
 * Plotly
@@ -25,8 +25,6 @@ Geo-coded football recruiting rankings by county:       https://gmhfx.github.io/
 OHLC chart with volume subplot for BTC-USD:             https://gmhfx.github.io/OHLCV-Chart/
 
 Bubble map showing football recruits by high school:    https://gmhfx.github.io/Bubble_Map/
-
-Fanatasy football ADP v predicted points scatter plot:  https://gmhfx.github.io/Fantasy_Football/
 
 Bitcoin, Gold and US Government Debt growth over time:    https://gmhfx.github.io/DigitalGold/
 

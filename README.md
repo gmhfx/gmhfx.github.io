@@ -18,13 +18,13 @@ While I am precluded from sharing any projects from my employer, I will source a
 
 ## Table of Contents
 
-S&P 500 EPS v PE ratio scatter plot:                    https://gmhfx.github.io/SP500/
+S&P 500 EPS v PE ratio scatter plot:                                                        https://gmhfx.github.io/SP500/
 
-Geo-coded football recruiting rankings by county:       https://gmhfx.github.io/Choropleth-Map/
+Mortgage Treasury Spread scatter plot with Originations bar chart on secondary axis:        https://gmhfx.github.io/MortgageRatesTreasury/
 
-Bubble map showing football recruits by high school:    https://gmhfx.github.io/Bubble_Map/
+AUD-JPY as an indicator for Bitcoin price, with buy/sell signals:                           https://gmhfx.github.io/AUDJPY-vs-Bitcoin/
 
-Bitcoin, Gold and US Government Debt growth over time:    https://gmhfx.github.io/DigitalGold/
+Bitcoin, Gold and US Government Debt growth over time:                                      https://gmhfx.github.io/DigitalGold/
 
 ### Contact
 

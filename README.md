@@ -24,6 +24,8 @@ Mortgage Treasury Spread scatter plot with Originations bar chart on secondary a
 
 AUD-JPY as an indicator for Bitcoin price, with buy/sell signals:                           https://gmhfx.github.io/AUDJPY-vs-Bitcoin/
 
+Scatter plot of US Public Debt over the last 30 years with timeline of Presidential adminsistrations:  https://gmhfx.github.io/US-Public-Debt/
+
 Bitcoin, Gold and US Government Debt growth over time:                                      https://gmhfx.github.io/DigitalGold/
 
 ### Contact

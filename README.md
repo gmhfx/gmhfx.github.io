@@ -18,17 +18,17 @@ While I am precluded from sharing any projects from my employer, I will source a
 
 ## Table of Contents
 
-US Treasury 2 - 10 year spread with timeline of US recessions on secondary axis:                      https://gmhfx.github.io/UST210Recession.html
+US Treasury 2 - 10 year spread with timeline of US recessions on secondary axis: https://gmhfx.github.io/UST210Recession.html
 
-S&P 500 EPS v PE ratio scatter plot:                                                                  https://gmhfx.github.io/SP500/
+S&P 500 EPS v PE ratio scatter plot: https://gmhfx.github.io/SP500/
 
-Mortgage Treasury Spread scatter plot with Originations bar chart on secondary axis:                  https://gmhfx.github.io/MortgageRatesTreasury/
+Mortgage Treasury Spread scatter plot with Originations bar chart on secondary axis:  https://gmhfx.github.io/MortgageRatesTreasury/
 
-AUD-JPY as an indicator for Bitcoin price, with buy/sell signals:                                     https://gmhfx.github.io/AUDJPY-vs-Bitcoin/
+AUD-JPY as an indicator for Bitcoin price, with buy/sell signals: https://gmhfx.github.io/AUDJPY-vs-Bitcoin/
 
-Scatter plot of US Public Debt over the last 30 years with timeline of Presidential administrations:  https://gmhfx.github.io/US-Public-Debt/
+Scatter plot of US Public Debt over the last 30 years with timeline of Presidential administrations: https://gmhfx.github.io/US-Public-Debt/
 
-Bitcoin, Gold and US Government Debt growth over time:                                                https://gmhfx.github.io/DigitalGold/
+Bitcoin, Gold and US Government Debt growth over time:  https://gmhfx.github.io/DigitalGold/
 
 ### Contact
 
